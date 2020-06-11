@@ -53,3 +53,9 @@
   color: black;
   background-color: #fff;
 }
+
+@media (min-width: 375px) and (max-width: 768px) {
+  .container {
+    width: 90%;
+  }
+}

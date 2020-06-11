@@ -1,5 +1,5 @@
 .container {
-  width: 33%;
+  width: 45%;
   margin: 0 auto;
   margin-top: 60px;
   display: flex;
@@ -59,4 +59,11 @@
   background-color: white;
   color: blue;
   border: 2px solid blue;
+}
+
+@media (min-width: 375px) and (max-width: 768px) {
+  .container {
+    width: 90%;
+    border-radius: 4px;
+  }
 }

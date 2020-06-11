@@ -270,7 +270,7 @@ eval("module.exports = function(module) {\n\tif (!module.webpackPolyfill) {\n\t\
 
 /***/ }),
 
-/***/ 2:
+/***/ 1:
 /*!*******************************************************************************************************************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fnext%2Fdist%2Fpages%2F_error&absolutePagePath=%2FUsers%2Fapplestock%2FDesktop%2FIT%2F%D0%A1%D0%BE%D0%B1%D0%B5%D1%81%D1%8B%2FBlog%2FnewRepo%2FsimpleBlog%2Fnode_modules%2Fnext%2Fdist%2Fpages%2F_error.js ***!
   \*******************************************************************************************************************************************************************************************************************************************************/
@@ -293,4 +293,4 @@ eval("module.exports = dll_5030f387d328e4415785;//# sourceURL=[module]\n//# sour
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]);
+},[[1,"static/runtime/webpack.js"]]]);

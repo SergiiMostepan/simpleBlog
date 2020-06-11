@@ -81,3 +81,21 @@
   background-color: red;
   color: white;
 }
+
+@media (min-width: 375px) and (max-width: 768px) {
+  .postsContainer {
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 0;
+    width: 100%;
+  }
+
+  .postContainer {
+    flex: none;
+    width: 96%;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
