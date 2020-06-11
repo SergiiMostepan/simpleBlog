@@ -1423,7 +1423,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* WEBPACK VAR INJECTION */(f
 
 /***/ }),
 
-/***/ 3:
+/***/ 1:
 /*!**********************************************************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fapplestock%2FDesktop%2FIT%2F%D0%A1%D0%BE%D0%B1%D0%B5%D1%81%D1%8B%2FBlog%2FnewRepo%2FsimpleBlog%2Fpages%2Findex.tsx ***!
   \**********************************************************************************************************************************************************************************************/
@@ -1446,4 +1446,4 @@ eval("module.exports = dll_5030f387d328e4415785;//# sourceURL=[module]\n//# sour
 
 /***/ })
 
-},[[3,"static/runtime/webpack.js"]]]);
+},[[1,"static/runtime/webpack.js"]]]);
