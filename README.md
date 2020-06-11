@@ -3,6 +3,7 @@
 Download the repozitory:
 
 git clone https://github.com/SergiiMostepan/simpleBlog.git
+
 cd simpleBlog
 
 Install it and run:
